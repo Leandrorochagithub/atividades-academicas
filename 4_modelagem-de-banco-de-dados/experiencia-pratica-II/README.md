@@ -98,6 +98,8 @@ Bitcoin ─┬─ Preço em 15/01/2025 às 14:30
 
 ## Diagrama Entidade-Relacionamento (DER)
 
+<img width="900" height="300" alt="Captura de tela 2025-11-13 112023" src="https://github.com/user-attachments/assets/ebd7b850-909e-4322-9efc-1554e0b91ba3" />
+
 ---
 
 ## 📚 Referências
